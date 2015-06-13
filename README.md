@@ -5,8 +5,8 @@ My Litte Stone the new social stone application that will bring joy and happines
 Puting the breeding stone experience into a new level.
 
 Autors:
-	- Edyta Pilczuk
-	- Piotr Pilczuk
+	- Edyta Ilczuk
+	- Piotr Ilczuk
 	- Viktor Moreno
 
 Developed using Symfony2.
