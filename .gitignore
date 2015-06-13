@@ -1,0 +1,14 @@
+/web/
+/app/config/parameters.yml
+/app/bootstrap.php.cache
+/app/cache/*
+/app/logs/*
+/build/
+/vendor/
+/bin/
+/composer.phar
+composer.phar
+*.bak
+*.dist
+nohup.out
+
